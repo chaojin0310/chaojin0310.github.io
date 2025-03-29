@@ -1,0 +1,61 @@
+---
+layout: archive
+title: "Full Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+## 2025
+
+### **Towards Swift Serverless LLM Cold Starts with ParaServe**
+Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](/files/papers/Preprint-ParaServe.pdf)**]
+
+### **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**
+Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
+*IEEE/ACM Transactions on Networking ([**TON**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)), 2025.*  
+To appear.
+
+## 2024
+
+### **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**
+**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](/files/papers/Preprint-RAGCache.pdf)**]
+
+### **Pyxis: Scheduling Mixed Tasks in Disaggregated Datacenters**
+Sheng Qi, **Chao Jin**, Mosharaf Chowdhury, Zhenming Liu, Gang Huang, Xuanzhe Liu, Xin Jin  
+*IEEE Transactions on Parallel and Distributed Systems ([**TPDS 2024**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)), 2024.*  
+[**[PDF](/files/papers/TPDS24-Pyxis.pdf)**]
+
+### **Jolteon: Unleashing the Promise of Serverless for Serverless Workflows**
+Zili Zhang, **Chao Jin**, Xin Jin  
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2024**](https://www.usenix.org/conference/nsdi24)), Santa Clara, April 16–18, 2024.*  
+[**[PDF](/files/papers/NSDI24-Jolteon.pdf)**] [**[Slides](/files/slides/NSDI24-Jolteon-slides.pdf)**]
+
+## 2023
+
+### **Ditto: Efficient Serverless Analytics with Elastic Parallelism**  
+
+**Chao Jin**, Zili Zhang, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin  
+*ACM Special Interest Group on Data Communication ([**SIGCOMM 2023**](https://conferences.sigcomm.org/sigcomm/2023/)), New York City, September 10-14, 2023.*  
+[**[PDF](/files/papers/SIGCOMM23-Ditto.pdf)**] [**[Slides](/files/slides/SIGCOMM23-Ditto-slides.pdf)**]
+
+### **Fast, Approximate Vector Queries on Very Large Unstructured Datasets**  
+Zili Zhang, **Chao Jin**, Linpeng Tang, Xuanzhe Liu, Xin Jin  
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2023**](https://www.usenix.org/conference/nsdi23)), Boston, April 17–19, 2023.*  
+[**[PDF](/files/papers/NSDI23-Auncel.pdf)**] [**[Slides](/files/slides/NSDI23-Auncel-slides.pdf)**]
+
+## 2022
+
+### **Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning**
+Qipeng Wang, Mengwei Xu, **Chao Jin**, Xinran Dong, Jinliang Yuan, Gang Huang, Xin Jin, Yunxin Liu, Xuanzhe Liu  
+*Proceedings of the 20th ACM International Conference on Mobile Systems, Applications, and Services ([**MobiSys 2022**](https://www.sigmobile.org/mobisys/2022/)), Portland, June 25-July 1, 2022.*  
+[**[PDF](/files/papers/MobiSys22-Melon.pdf)**] 

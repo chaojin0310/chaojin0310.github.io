@@ -1,17 +1,76 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Chao Jin"
 author_profile: true
-redirect_from: 
-  - "/wordpress/"
-  - "/wordpress/index.html"
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
+I am currently a second-year Ph.D. student at the **[Computer Systems Research Group](https://github.com/pkusys)** in the **School of Computer Science at Peking University**, advised by Prof. [Xin Jin](https://xinjin.github.io/).  
 
-Hi! I’m Stuart, an ethnographer and post-doctoral scholar at the [Berkeley Institute for Data Science](http://bids.berkeley.edu) at UC-Berkeley. What is an ethnographer? I’m a social scientist who uses many different methods to holistically study and analyze culture, while trying to uphold two goals: 1) to do research while embedded in the social worlds I study, and 2) to understand the worldviews and perspectives of the people I study. I call myself a computational ethnographer and an ethnographer of computation, because I both use computational methods along side traditional qualitative methods in my own ethnographic work, as well as study people as they build, support, interact with, and relate to computational systems.
+My research interests include machine learning systems, distributed systems, and cloud computing, with a recent focus on the intersection of large language models (LLMs), generative AI, and innovative system design.
 
-I focus on the infrastructures and institutions that support the production of information and knowledge. Most of my previous work has been on [Wikipedia](http://enwp.org/Wikipedia), where I’ve spent almost a decade researching the community of volunteer editors who produce and maintain an open encyclopedia. I’ve also researched distributed scientific research networks and projects, including the [Long-Term Ecological Research Network](https://lternet.edu/) and the [Open Science Grid](https://www.opensciencegrid.org/). In Wikipedia and scientific research, I study topics including newcomer socialization, cooperation and conflict, community governance, specialization and professionalization, hackathons and community workshops, quality control and verification, the roles of support staff and technicians, and diversity and inclusion. As these communities are made possible through software systems, I’m very interested in how the design of software tools and systems intersect with all of these issues.
+I received my B.S. degree in computer science from the **School of Electronics Engineering and Computer Science (EECS), Peking University** in 2023.
 
-I received my Ph.D from the [UC-Berkeley School of Information](http://ischool.berkeley.edu), my M.A. from the [Communication, Culture, and Technology program](http://cct.georgetown.edu) at Georgetown University, and my B.A. in [the Humanities program](https://liberalarts.utexas.edu/humanities/) at the University of Texas at Austin. I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / Internet studies.  Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and experimental methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines.
+Email: chaojin (at) pku (dot) edu (dot) cn
+
+Recent Publications *(Since 2023)*
+------
+
+### **Towards Swift Serverless LLM Cold Starts with ParaServe**
+Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](/files/papers/Preprint-ParaServe.pdf)**]
+
+### **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**
+Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
+*IEEE/ACM Transactions on Networking ([**TON**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)), 2025.*  
+To appear.
+
+### **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**
+**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](/files/papers/Preprint-RAGCache.pdf)**]
+
+### **Pyxis: Scheduling Mixed Tasks in Disaggregated Datacenters**
+Sheng Qi, **Chao Jin**, Mosharaf Chowdhury, Zhenming Liu, Gang Huang, Xuanzhe Liu, Xin Jin  
+*IEEE Transactions on Parallel and Distributed Systems ([**TPDS 2024**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)), 2024.*  
+[**[PDF](/files/papers/TPDS24-Pyxis.pdf)**]
+
+### **Jolteon: Unleashing the Promise of Serverless for Serverless Workflows**
+Zili Zhang, **Chao Jin**, Xin Jin  
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2024**](https://www.usenix.org/conference/nsdi24)), Santa Clara, April 16–18, 2024.*  
+[**[PDF](/files/papers/NSDI24-Jolteon.pdf)**] [**[Slides](/files/slides/NSDI24-Jolteon-slides.pdf)**]
+
+### **Ditto: Efficient Serverless Analytics with Elastic Parallelism**  
+**Chao Jin**, Zili Zhang, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin  
+*ACM Special Interest Group on Data Communication ([**SIGCOMM 2023**](https://conferences.sigcomm.org/sigcomm/2023/)), New York City, September 10-14, 2023.*  
+[**[PDF](/files/papers/SIGCOMM23-Ditto.pdf)**] [**[Slides](/files/slides/SIGCOMM23-Ditto-slides.pdf)**]
+
+### **Fast, Approximate Vector Queries on Very Large Unstructured Datasets**  
+Zili Zhang, **Chao Jin**, Linpeng Tang, Xuanzhe Liu, Xin Jin  
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2023**](https://www.usenix.org/conference/nsdi23)), Boston, April 17–19, 2023.*  
+[**[PDF](/files/papers/NSDI23-Auncel.pdf)**] [**[Slides](/files/slides/NSDI23-Auncel-slides.pdf)**]
+
+Teaching
+------
+
+- **Teaching Assistant**, Operating Systems (Honor Track) at PKU, 2024 Spring.
+- **Teaching Assistant**, Introduction to Computer System at PKU, 2021 Fall.
+
+Internship
+------
+
+- **ByteDance** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of Seed-Foundation-MLSys.
+- **Alibaba Cloud** [2022.3 - 2022.8], Advised by [Rui Miao](https://rmiao.github.io/), Research Intern of networked systems.
+
+Honors and Awards
+------
+
+- [2024] **Merit Student** (2/56)  
+- [2024] **Huawei Scholarship** at School of Computer Science, Peking University  
+- [2023] **Presidential Scholarship** of Peking University (highest honor for Ph.D. students at Peking University)  
+- [2021] **Learning Excellence Award** at Peking University  
+- [2020] **Merit Student**  
+- [2020] **Xiaomi Scholarship** at Peking University  
