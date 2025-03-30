@@ -18,37 +18,37 @@ Email: chaojin (at) pku (dot) edu (dot) cn
 Recent Publications *(Since 2023)*
 ------
 
-### **Towards Swift Serverless LLM Cold Starts with ParaServe**
+**Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *In Preprint.*  
 [**[PDF](/files/papers/Preprint-ParaServe.pdf)**]
 
-### **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**
+**FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**  
 Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
 *IEEE/ACM Transactions on Networking ([**TON**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)), 2025.*  
 To appear.
 
-### **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**
+**RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
 **Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
 *In Preprint.*  
 [**[PDF](/files/papers/Preprint-RAGCache.pdf)**]
 
-### **Pyxis: Scheduling Mixed Tasks in Disaggregated Datacenters**
+**Pyxis: Scheduling Mixed Tasks in Disaggregated Datacenters**  
 Sheng Qi, **Chao Jin**, Mosharaf Chowdhury, Zhenming Liu, Gang Huang, Xuanzhe Liu, Xin Jin  
 *IEEE Transactions on Parallel and Distributed Systems ([**TPDS 2024**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)), 2024.*  
 [**[PDF](/files/papers/TPDS24-Pyxis.pdf)**]
 
-### **Jolteon: Unleashing the Promise of Serverless for Serverless Workflows**
+**Jolteon: Unleashing the Promise of Serverless for Serverless Workflows**  
 Zili Zhang, **Chao Jin**, Xin Jin  
 *USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2024**](https://www.usenix.org/conference/nsdi24)), Santa Clara, April 16–18, 2024.*  
 [**[PDF](/files/papers/NSDI24-Jolteon.pdf)**] [**[Slides](/files/slides/NSDI24-Jolteon-slides.pdf)**]
 
-### **Ditto: Efficient Serverless Analytics with Elastic Parallelism**  
+**Ditto: Efficient Serverless Analytics with Elastic Parallelism**  
 **Chao Jin**, Zili Zhang, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin  
 *ACM Special Interest Group on Data Communication ([**SIGCOMM 2023**](https://conferences.sigcomm.org/sigcomm/2023/)), New York City, September 10-14, 2023.*  
 [**[PDF](/files/papers/SIGCOMM23-Ditto.pdf)**] [**[Slides](/files/slides/SIGCOMM23-Ditto-slides.pdf)**]
 
-### **Fast, Approximate Vector Queries on Very Large Unstructured Datasets**  
+**Fast, Approximate Vector Queries on Very Large Unstructured Datasets**  
 Zili Zhang, **Chao Jin**, Linpeng Tang, Xuanzhe Liu, Xin Jin  
 *USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2023**](https://www.usenix.org/conference/nsdi23)), Boston, April 17–19, 2023.*  
 [**[PDF](/files/papers/NSDI23-Auncel.pdf)**] [**[Slides](/files/slides/NSDI23-Auncel-slides.pdf)**]
