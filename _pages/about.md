@@ -25,8 +25,8 @@ Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin J
 
 **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**  
 Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
-*IEEE/ACM Transactions on Networking ([**TON**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)), 2025.*  
-To appear.
+*IEEE Transactions on Networking ([**TON**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)), 2025.*  
+[**[PDF](/files/papers/TON25-FaaSPR.pdf)**]
 
 **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
 **Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
