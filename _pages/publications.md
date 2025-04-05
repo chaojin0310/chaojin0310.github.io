@@ -9,6 +9,15 @@ author_profile: true
 
 ## 2025
 
+**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
+Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
+Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
+Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
+Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
+(\* Equal Contribution)  
+*In Preprint.*  
+[**[PDF](/files/papers/Preprint-MegaScale-Infer.pdf)**]
+
 **Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *In Preprint.*  
