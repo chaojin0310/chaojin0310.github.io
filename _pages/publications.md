@@ -9,6 +9,18 @@ author_profile: true
 
 ## 2025
 
+<!-- **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**
+**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li,
+Ningxin Zheng, Xi Wang, Cong Xie, Wen Heng, Yiyuan Ma, Wenlei Bao, Size
+Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu
+*In Preprint.*  
+[**[PDF]()**] -->
+
+**StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**
+Yinmin Zhong, Zili Zhang, Xiaoniu Song, Hanpeng Hu, **Chao Jin**, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang
+*In Preprint.*  
+[**[PDF](https://arxiv.org/pdf/2504.15930)**]
+
 **MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
 Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
 Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,

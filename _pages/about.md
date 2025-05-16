@@ -18,6 +18,18 @@ Email: chaojin (at) pku (dot) edu (dot) cn
 Recent Publications *(Since 2023)*
 ------
 
+<!-- **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**
+**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li,
+Ningxin Zheng, Xi Wang, Cong Xie, Wen Heng, Yiyuan Ma, Wenlei Bao, Size
+Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu
+*In Preprint.*  
+[**[PDF]()**] -->
+
+**StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**
+Yinmin Zhong, Zili Zhang, Xiaoniu Song, Hanpeng Hu, **Chao Jin**, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang
+*In Preprint.*  
+[**[PDF](https://arxiv.org/pdf/2504.15930)**]
+
 **MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
 Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
 Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
@@ -30,7 +42,7 @@ Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu
 **Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *In Preprint.*  
-[**[PDF](/files/papers/Preprint-ParaServe.pdf)**]
+[**[PDF](https://arxiv.org/abs/2502.15524)**]
 
 **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**  
 Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
