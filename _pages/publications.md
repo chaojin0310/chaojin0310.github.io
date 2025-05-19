@@ -9,13 +9,11 @@ author_profile: true
 
 ## 2025
 
-<!-- **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
-**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li,
-Ningxin Zheng, Xi Wang, Cong Xie, Wen Heng, Yiyuan Ma, Wenlei Bao, Size
-Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
+**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
+**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *In Preprint.*  
-[**[PDF]()**] -->
+[**[PDF](https://arxiv.org/pdf/2505.11432)**]
 
 **StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**  
 Yinmin Zhong, Zili Zhang, Xiaoniu Song, Hanpeng Hu, **Chao Jin**, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang  
@@ -29,12 +27,12 @@ Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
 Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *In Preprint.*  
-[**[PDF](/files/papers/Preprint-MegaScale-Infer.pdf)**]
+[**[PDF](https://arxiv.org/pdf/2504.02263)**]
 
 **Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *In Preprint.*  
-[**[PDF](/files/papers/Preprint-ParaServe.pdf)**]
+[**[PDF](https://arxiv.org/abs/2502.15524)**]
 
 **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**  
 Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin  
