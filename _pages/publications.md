@@ -10,7 +10,7 @@ author_profile: true
 ## 2025
 
 **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
-**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
+**Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *In Preprint.*  
 [**[PDF](https://arxiv.org/pdf/2505.11432)**]
