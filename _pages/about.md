@@ -82,7 +82,7 @@ Teaching
 Internship
 ------
 
-- **ByteDance** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of Seed-Foundation-MLSys.
+- **ByteDance Seed** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of Seed-Foundation-MLSys.
 - **Alibaba Cloud** [2022.3 - 2022.8], Advised by [Rui Miao](https://rmiao.github.io/), Research Intern of networked systems.
 
 Honors and Awards
