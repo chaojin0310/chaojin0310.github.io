@@ -35,12 +35,12 @@ Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
 Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
 Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
-*In Preprint.*  
+*ACM Special Interest Group on Data Communication ([**SIGCOMM 2025**](https://conferences.sigcomm.org/sigcomm/2025/)), Coimbra, Portugal, September 8-11, 2025.*  
 [**[PDF](https://arxiv.org/pdf/2504.02263)**]
 
 **Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
-*In Preprint.*  
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2026**](https://www.usenix.org/conference/nsdi26)), Renton, May 4–6, 2026.*  
 [**[PDF](https://arxiv.org/abs/2502.15524)**]
 
 **FaaSPR: Latency-oriented Placement and Routing Optimization for Serverless Workflow Processing**  
