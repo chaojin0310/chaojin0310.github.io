@@ -36,7 +36,7 @@ Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
 Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *ACM Special Interest Group on Data Communication ([**SIGCOMM 2025**](https://conferences.sigcomm.org/sigcomm/2025/)), Coimbra, Portugal, September 8-11, 2025.*  
-[**[PDF](https://arxiv.org/pdf/2504.02263)**]
+[**[PDF](/files/papers/SIGCOMM25-MegaScale-Infer.pdf)**] 
 
 **Towards Swift Serverless LLM Cold Starts with ParaServe**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
