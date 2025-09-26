@@ -12,7 +12,7 @@ author_profile: true
 **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
 **Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
-*In Preprint.*  
+*European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
 [**[PDF](https://arxiv.org/pdf/2505.11432)**]
 
 **StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**  
@@ -29,7 +29,12 @@ Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu
 *ACM Special Interest Group on Data Communication ([**SIGCOMM 2025**](https://conferences.sigcomm.org/sigcomm/2025/)), Coimbra, Portugal, September 8-11, 2025.*  
 [**[PDF](/files/papers/SIGCOMM25-MegaScale-Infer.pdf)**] 
 
-**Towards Swift Serverless LLM Cold Starts with ParaServe**  
+**RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
+**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
+*ACM Transactions on Computer Systems ([**TOCS 2025**](https://dl.acm.org/toc/tocs/justaccepted)), 2025.*  
+[**[PDF](https://dl.acm.org/doi/10.1145/3768628)**]
+
+**HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2026**](https://www.usenix.org/conference/nsdi26)), Renton, May 4–6, 2026.*  
 [**[PDF](https://arxiv.org/abs/2502.15524)**]
@@ -40,11 +45,6 @@ Yunshan Jia, **Chao Jin**, Qing Li, Xuanzhe Liu, Xin Jin
 [**[PDF](/files/papers/TON25-FaaSPR.pdf)**]
 
 ## 2024
-
-**RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
-**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
-*In Preprint.*  
-[**[PDF](/files/papers/Preprint-RAGCache.pdf)**]
 
 **Pyxis: Scheduling Mixed Tasks in Disaggregated Datacenters**  
 Sheng Qi, **Chao Jin**, Mosharaf Chowdhury, Zhenming Liu, Gang Huang, Xuanzhe Liu, Xin Jin  
