@@ -83,7 +83,7 @@ Internship
 ------
 
 <!-- - **Stepfun** [2025.4 - 2025.8], Advised by [Yimin Jiang](https://ymjiang.github.io/), Research Intern of RL Training Infra. -->
-- **Stepfun** [2025.4 - 2025.8], Research Intern of RL Training Infra.
+- **Stepfun** [2025.4 - 2025.8], Advised by Ranchen Ming, Research Intern of RL Training Infra.
 - **ByteDance Seed** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of Seed-Foundation-MLSys.
 - **Alibaba Cloud** [2022.3 - 2022.8], Advised by [Rui Miao](https://rmiao.github.io/), Research Intern of Networked Systems.
 
