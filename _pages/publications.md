@@ -24,8 +24,8 @@ Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin J
 
 **RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
 **Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
-*ACM Transactions on Computer Systems ([**TOCS 2025**](https://dl.acm.org/toc/tocs/justaccepted)), 2025.* (To appear)  
-[**[PDF](https://dl.acm.org/doi/10.1145/3768628)**]
+*ACM Transactions on Computer Systems ([**TOCS 2025**](https://dl.acm.org/journal/tocs)), 2025.* (To appear)  
+[**[PDF](/files/papers/TOCS25-RAGCache.pdf)**]
 
 **MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
 Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
