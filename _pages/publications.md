@@ -22,10 +22,10 @@ Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin J
 
 ## 2025
 
-**RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
-**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
-*ACM Transactions on Computer Systems ([**TOCS 2025**](https://dl.acm.org/journal/tocs)), 2025.* (To appear)  
-[**[PDF](/files/papers/TOCS25-RAGCache.pdf)**]
+**SpecRL: Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
+**Chao Jin**, Yinmin Zhong, Zili Zhang, Yimin Jiang, Yibo Zhu  
+*The 1st Frontier AI Systems Workshop ([**FAISys 2025**](https://www.faisys.net/)), Hong Kong, November 14-15, 2025.*  
+[**[PDF](/files/papers/FAISys25-SpecRL.pdf)**] [**[Slides](/files/slides/FAISys25-SpecRL-slides.pdf)**]
 
 **MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
 Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
@@ -35,6 +35,11 @@ Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu
 (\* Equal Contribution)  
 *ACM Special Interest Group on Data Communication ([**SIGCOMM 2025**](https://conferences.sigcomm.org/sigcomm/2025/)), Coimbra, Portugal, September 8-11, 2025.*  
 [**[PDF](/files/papers/SIGCOMM25-MegaScale-Infer.pdf)**] [**[Slides](/files/slides/SIGCOMM25-MegaScale-Infer-slides.pdf)**]
+
+**RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**  
+**Chao Jin**, Zili Zhang, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin  
+*ACM Transactions on Computer Systems ([**TOCS 2025**](https://dl.acm.org/journal/tocs)), 2025.*  
+[**[PDF](/files/papers/TOCS25-RAGCache.pdf)**]
 
 **StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation**  
 Yinmin Zhong, Zili Zhang, Xiaoniu Song, Hanpeng Hu, **Chao Jin**, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang  
