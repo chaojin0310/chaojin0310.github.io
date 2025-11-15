@@ -15,7 +15,7 @@ I received my B.S. degree in computer science from the **School of Electronics E
 
 Email: chaojin (at) pku (dot) edu (dot) cn
 
-Selected Publications [**(view all>>)**](/publications/)
+Selected Publications [**(view all <i class="fas fa-angle-double-right"></i>>)**](/publications/)
 ------
 
 **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
