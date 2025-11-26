@@ -22,7 +22,7 @@ Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin J
 
 ## 2025
 
-**SpecRL: Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
+**Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
 **Chao Jin**, Yinmin Zhong, Zili Zhang, Yimin Jiang, Yibo Zhu  
 *The 1st Frontier AI Systems Workshop ([**FAISys 2025**](https://www.faisys.net/)), Hong Kong, November 14-15, 2025.*  
 [**[PDF](/files/papers/FAISys25-SpecRL.pdf)**] [**[Slides](/files/slides/FAISys25-SpecRL-slides.pdf)**]
