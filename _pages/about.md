@@ -24,7 +24,7 @@ Selected Publications [**(view all >>)**](/publications/)
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.* (To appear)  
 [**[PDF](https://arxiv.org/pdf/2505.11432)**]
 
-**SpecRL: Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
+**Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
 **Chao Jin**, Yinmin Zhong, Zili Zhang, Yimin Jiang, Yibo Zhu  
 *The 1st Frontier AI Systems Workshop ([**FAISys 2025**](https://www.faisys.net/)), Hong Kong, November 14-15, 2025.*  
 [**[PDF](/files/papers/FAISys25-SpecRL.pdf)**] [**[Slides](/files/slides/FAISys25-SpecRL-slides.pdf)**]
