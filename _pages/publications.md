@@ -12,8 +12,8 @@ author_profile: true
 **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
 **Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
-*European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.* (To appear)  
-[**[PDF](https://arxiv.org/pdf/2505.11432)**]
+*European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
+[**[PDF](https://arxiv.org/pdf/2505.11432)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pptx)**]
 
 **HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
