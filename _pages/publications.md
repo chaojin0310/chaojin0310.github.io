@@ -13,12 +13,17 @@ author_profile: true
 **Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
-[**[PDF](https://arxiv.org/pdf/2505.11432)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
+[**[PDF](https://dl.acm.org/doi/10.1145/3767295.3769325)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
+
+**Heddle: A Distributed Orchestration System for Agentic RL Rollout**  
+Zili Zhang, Yinmin Zhong, Chengxu Yang, **Chao Jin**, Bingyang Wu, Xinming Wei, Yuliang Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](https://arxiv.org/abs/2603.28101)**]
 
 **HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
 *USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2026**](https://www.usenix.org/conference/nsdi26)), Renton, May 4–6, 2026.* (To appear)  
-[**[PDF](https://arxiv.org/abs/2502.15524)**]
+[**[PDF](/files/papers/NSDI26-HydraServe.pdf)**]
 
 ## 2025
 
