@@ -22,7 +22,7 @@ Selected Publications [**(view all >>)**](/publications/)
 **Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
-[**[PDF](https://dl.acm.org/doi/10.1145/3767295.3769325)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
+[**[PDF](/files/papers/EuroSys26-MegaScale-MoE.pdf)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
 
 **Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
 **Chao Jin**, Yinmin Zhong, Zili Zhang, Yimin Jiang, Yibo Zhu  
