@@ -18,6 +18,11 @@ Email: chaojin (at) pku (dot) edu (dot) cn
 Selected Publications [**(view all >>)**](/publications/)
 ------
 
+**ReLibra: Routing-Replay-Guided Load Balancing for MoE Training in Reinforcement Learning**  
+**Chao Jin**, Xinming Wei, Yinmin Zhong, Chengxu Yang, Bingyang Wu, Ruidong Zhu, Zili Zhang, Yuliang Liu, Xin Jin  
+*In Preprint.*  
+[**[PDF](https://arxiv.org/abs/2605.08639)**]
+
 **MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**  
 **Chao Jin**\*, Ziheng Jiang\*, Zhihao Bai, Zheng Zhong, Juncai Liu, Xiang Li, Ningxin Zheng, Xi Wang, Cong Xie, Qi Huang, Wen Heng, Yiyuan Ma, Wenlei Bao, Size Zheng, Yanghua Peng, Haibin Lin, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
@@ -57,9 +62,9 @@ Teaching
 Internship
 ------
 
-<!-- - **Stepfun** [2025.4 - 2025.8], Advised by [Yimin Jiang](https://ymjiang.github.io/), Research Intern of RL Training Infra. -->
-- **Stepfun** [2025.4 - 2025.8], Advised by Ranchen Ming, Research Intern of RL Training Infra.
-- **ByteDance Seed** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of Seed-Foundation-MLSys.
+- **RedNote Hi Lab** [2025.9 - Present], Research Intern of RL Training Infra.
+- **Stepfun** [2025.4 - 2025.8], Advised by [Yimin Jiang](https://ymjiang.github.io/), Research Intern of RL Training Infra.
+- **ByteDance Seed** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of AI Infra.
 - **Alibaba Cloud** [2022.3 - 2022.8], Advised by [Rui Miao](https://rmiao.github.io/), Research Intern of Networked Systems.
 
 Honors and Awards
