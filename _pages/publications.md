@@ -20,6 +20,11 @@ author_profile: true
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
 [**[PDF](/files/papers/EuroSys26-MegaScale-MoE.pdf)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
 
+**BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training**  
+Zili Zhang\*, Chengxu Yang\*, Shenglong Zhang, Chenyu Wang, Yufan Zhang, Tuo Dai, Zhouyang Li, Yuhong Ge, **Chao Jin**, Xin Jin, Yuliang Liu  
+*In Preprint.*  
+[**[PDF](https://arxiv.org/abs/2605.25451)**]
+
 **Heddle: A Distributed Orchestration System for Agentic RL Rollout**  
 Zili Zhang, Yinmin Zhong, Chengxu Yang, **Chao Jin**, Bingyang Wu, Xinming Wei, Yuliang Liu, Xin Jin  
 *In Preprint.*  
@@ -27,8 +32,8 @@ Zili Zhang, Yinmin Zhong, Chengxu Yang, **Chao Jin**, Bingyang Wu, Xinming Wei, 
 
 **HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds**  
 Chiheng Lou, Sheng Qi, **Chao Jin**, Dapeng Nie, Haoran Yang, Xuanzhe Liu, Xin Jin  
-*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2026**](https://www.usenix.org/conference/nsdi26)), Renton, May 4–6, 2026.* (To appear)  
-[**[PDF](/files/papers/NSDI26-HydraServe.pdf)**]
+*USENIX Symposium on Networked Systems Design and Implementation ([**NSDI 2026**](https://www.usenix.org/conference/nsdi26)), Renton, May 4–6, 2026.*  
+[**[PDF](/files/papers/NSDI26-HydraServe.pdf)**] [**[Slides](/files/slides/NSDI26-HydraServe-slides.pdf)**]
 
 ## 2025
 
