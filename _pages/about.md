@@ -62,8 +62,8 @@ Teaching
 Internship
 ------
 
-- **RedNote Dots** [2025.9 - Present], Research Intern of RL Training Infra.
-- **Stepfun** [2025.4 - 2025.8], Advised by [Yimin Jiang](https://ymjiang.github.io/), Research Intern of RL Training Infra.
+- **RedNote Dots** [2025.9 - 2026.6], Research Intern of RL Infra.
+- **Stepfun** [2025.4 - 2025.8], Advised by [Yimin Jiang](https://ymjiang.github.io/), Research Intern of RL Infra.
 - **ByteDance Seed** [2023.7 - 2025.3], Advised by [Ziheng Jiang](https://ziheng.org/) and [Haibin Lin](https://sites.google.com/view/haibinlin/), Research Intern of AI Infra.
 - **Alibaba Cloud** [2022.3 - 2022.8], Advised by [Rui Miao](https://rmiao.github.io/), Research Intern of Networked Systems.
 

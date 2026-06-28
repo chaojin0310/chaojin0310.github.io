@@ -20,10 +20,10 @@ author_profile: true
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
 [**[PDF](/files/papers/EuroSys26-MegaScale-MoE.pdf)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
 
-<!-- **UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing**  
+**UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing**  
 Xinming Wei, **Chao Jin**, Tuo Dai, Yinmin Zhong, Shan Yu, Chengxu Yang, Bingyang Wu, Zili Zhang, Jing Mai, Qianchao Zhu, Zhouyang Li, Yuliang Liu, Guojie Luo  
 *In Preprint.*  
-[**[PDF](https://arxiv.org/abs/2606.04101)**] -->
+[**[PDF](https://arxiv.org/abs/2606.04101)**]
 
 **BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training**  
 Zili Zhang\*, Chengxu Yang\*, Shenglong Zhang, Chenyu Wang, Yufan Zhang, Tuo Dai, Zhouyang Li, Yuhong Ge, **Chao Jin**, Xin Jin, Yuliang Liu  
