@@ -20,6 +20,11 @@ author_profile: true
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
 [**[PDF](/files/papers/EuroSys26-MegaScale-MoE.pdf)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
 
+**ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels**  
+Bingyang Wu, **Chao Jin**, Zili Zhang, Xinming Wei, Yinmin Zhong, Ruidong Zhu, Chengxu Yang, Xin Jin, Yuliang Liu  
+*In Preprint.*  
+[**[PDF](https://arxiv.org/abs/2607.18002)**]
+
 **UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing**  
 Xinming Wei, **Chao Jin**, Tuo Dai, Yinmin Zhong, Shan Yu, Chengxu Yang, Bingyang Wu, Zili Zhang, Jing Mai, Qianchao Zhu, Zhouyang Li, Yuliang Liu, Guojie Luo  
 *In Preprint.*  
