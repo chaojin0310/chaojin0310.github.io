@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. candidate at the **[Computer Systems Research Group](https://github.com/pkusys)** in the **School of Computer Science at Peking University**, advised by Prof. [Xin Jin](https://xinjin.github.io/).  
+I am currently a fourth-year Ph.D. candidate at the **[Computer Systems Research Group](https://github.com/pkusys)** in the **School of Computer Science at Peking University**, advised by Prof. [Xin Jin](https://xinjin.github.io/).  
 
 My research interests include machine learning systems, distributed systems, and cloud computing, with a recent focus on the intersection of large language models (LLMs), generative AI, and innovative system design.
 
@@ -28,11 +28,6 @@ Selected Publications [**(view all >>)**](/publications/)
 (\* Equal Contribution)  
 *European Conference on Computer Systems ([**EuroSys 2026**](https://2026.eurosys.org/)), Edinburgh, UK, April 27-30, 2026.*  
 [**[PDF](/files/papers/EuroSys26-MegaScale-MoE.pdf)**] [**[Slides](/files/slides/EuroSys26-MegaScale-MoE-slides.pdf)**]
-
-**Efficient RL for LLMs with Dynamic and Online Speculative Decoding**  
-**Chao Jin**, Yinmin Zhong, Zili Zhang, Yimin Jiang, Yibo Zhu  
-*The 1st Frontier AI Systems Workshop ([**FAISys 2025**](https://www.faisys.net/)), Hong Kong, November 14-15, 2025.*  
-[**[PDF](/files/papers/FAISys25-SpecRL.pdf)**] [**[Slides](/files/slides/FAISys25-SpecRL-slides.pdf)**]
 
 **MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
 Ruidong Zhu\*, Ziheng Jiang\*, **Chao Jin**\*, Peng Wu, Cesar A. Stuardo,
